@@ -1,0 +1,9 @@
+.crop-image {
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    img {
+        max-width: 100%;
+    }
+}
